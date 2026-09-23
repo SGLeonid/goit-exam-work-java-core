@@ -1,0 +1,1 @@
+INSERT INTO SEARCH_INFO(title, date_time) VALUES(?, ?);

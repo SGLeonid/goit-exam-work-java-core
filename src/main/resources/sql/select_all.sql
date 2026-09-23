@@ -1,0 +1,1 @@
+SELECT title, date_time FROM SEARCH_INFO;
